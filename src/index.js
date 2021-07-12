@@ -1,13 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Lista from './components/Lista';
+import App06 from './components/App06';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Lista>
-
-    </Lista>
+    <App06>
+    </App06>
   </React.StrictMode>,
   document.getElementById('root')
 );
